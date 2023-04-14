@@ -1,0 +1,18 @@
+.carta {
+    background-color:  #F9E2AF;
+    border: 1px solid #77037B;
+}
+
+.imagen{
+    width: 60%;
+    cursor: pointer;
+    
+
+}
+
+.titulo{
+    font-size: larger;
+    font-weight: 700;
+    color: #210062;
+
+}

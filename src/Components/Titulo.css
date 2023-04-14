@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "yu-gi-oh-matrix.ttf";
+    src: url("C:\Users\israe\OneDrive\Escritorio\react\proyecto01\Fuente\yu-gi-oh-matrix.ttf") format("truetype");
+  }
+
+  h1 {
+    font-family: "yu-gi-oh-matrix.ttf";
+    padding-top: 20px;
+    background-color: firebrick;
+    padding-left: 15px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    color: goldenrod;
+
+  }

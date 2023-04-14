@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+input{
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: -10px;
+}
+
+button{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: -10px;
+}
+
+.summit{
+  font-weight: bold;
+  background-color: #f3eedc;
+  transition: .1s ease-out;
+}
+
+.summit:hover {
+  background-color: #bb1a0f;
+  font-style: oblique;
+  font-style: italic;
+  color: goldenrod;
+}
+
+.summit:hover::after {
+  content: "!";
+  
+}

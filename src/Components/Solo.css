@@ -1,0 +1,31 @@
+.Nuevo{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 150%;
+  word-wrap: break-word;
+}
+
+.nombre{
+    text-transform: capitalize;
+    font-size: 50px;
+    font-style: italic;
+    font-style: oblique;
+}
+
+.desc{
+    font-style: italic;
+}
+
+hr {
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+  }
+
+  button{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: -10px;
+  }
+  
