@@ -73,7 +73,7 @@ axios.get("https://db.ygoprodeck.com/api/v7/cardinfo.php?archetype="+ searhItem)
   size="small"
   variant="outlined"
   onClick={HandlerOnBack}
-  ><ChevronLeftIcon/>Back</Button>
+  ><ChevronLeftIcon/>Previous</Button>
 
   <Button
   color="primary"
